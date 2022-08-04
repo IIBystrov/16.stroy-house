@@ -137,6 +137,27 @@
 }
 
 
+/* .burger */
+
+.header__burger {
+    display: none;
+}
+
+.burger {
+    background: inherit;
+    border: none;
+}
+
+.burger__line {
+    display: block;
+
+    width: 26px;
+    height: 2px;
+    
+    background: #353d83;
+}
+
+
 /* .header__nav */
 
 .header__nav {
