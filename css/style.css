@@ -27,6 +27,8 @@
     margin: 0 auto;
 
     overflow: hidden;
+
+    background: #ffffff;
 }
 
 /* .header */
@@ -46,6 +48,8 @@
     align-items: stretch;
 
     width: 100%;
+
+    padding: 17px 71px 20px;
 }
 
 
