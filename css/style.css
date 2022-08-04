@@ -61,3 +61,15 @@
     flex-direction: column;
     align-items: center;
 }
+
+
+/* .social */
+
+.social {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 11px;
+
+}
