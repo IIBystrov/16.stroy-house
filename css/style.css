@@ -84,5 +84,16 @@
     justify-content: center;
     align-items: flex-start;
     gap: 11px;
+}
 
+
+/* .nav */
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
 }
