@@ -57,6 +57,13 @@
     align-items: center;
 }
 
+.logo__span {
+    font: normal 600 12px/1.21 Inter, sans-serif;
+    letter-spacing: -2%;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.7);
+}
+
 
 /* .address */
 
