@@ -43,3 +43,12 @@
     justify-content: space-between;
     align-items: flex-start;
 }
+
+
+/* .logo */
+
+.logo__link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
