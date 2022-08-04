@@ -153,10 +153,31 @@
 
     width: 26px;
     height: 2px;
-    
+
     background: #353d83;
 }
 
+.burger__line:before,
+.burger__line:after {
+    display: block;
+
+    content: "";
+
+    position: relative;
+
+    width: 130%;
+    height: inherit;
+
+    background: inherit;
+}
+
+.burger__line:before {
+    top: -9px;
+}
+
+.burger__line:after {
+    bottom: -9px;
+}
 
 /* .header__nav */
 
