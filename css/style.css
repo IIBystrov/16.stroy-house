@@ -101,6 +101,10 @@
     align-items: center;
 }
 
+.contacts *:not(:last-child) {
+    margin: 0 0 8px;
+}
+
 
 /* .btn */ 
 
