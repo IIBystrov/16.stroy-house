@@ -102,6 +102,22 @@
 }
 
 
+/* .btn */ 
+
+.btn {
+    display: block;
+
+    padding: 14px 39px 13px;
+
+    border: 1px solid rgba(33, 40, 100, 1);
+    border-radius: 25px;
+    background: inherit;
+
+    font: normal 700 12px/1.21 Inter, sans-serif;
+    text-transform: uppercase;
+    color: rgba(33, 40, 100, 1);
+}
+
 /* .social */
 
 .social {
