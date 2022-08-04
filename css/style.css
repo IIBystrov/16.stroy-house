@@ -154,9 +154,21 @@
 
     width: 100%;
 
+    font: normal 500 14px/1.21 Inter, sans-serif;
     color: #ffffff;
 }
 
 .nav--menu {
-    background: #15193D;
+    padding: 18px 90px 22px;
+
+    background: #15193d;
+}
+
+.nav--catalog {
+    padding: 13px 90px 15px;
+
+    background: #8c93d1;
+
+    font-weight: 700;
+
 }
