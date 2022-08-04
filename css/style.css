@@ -170,5 +170,13 @@
     background: #8c93d1;
 
     font-weight: 700;
+}
 
+.nav__link {
+    transition: color 0.3s ease-in;
+}
+
+.nav__link--active,
+.nav__link:hover {
+    color: #ffc239;
 }
