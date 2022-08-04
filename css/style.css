@@ -153,4 +153,10 @@
     align-items: center;
 
     width: 100%;
+
+    color: #ffffff;
+}
+
+.nav--menu {
+    background: #15193D;
 }
